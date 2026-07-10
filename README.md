@@ -1,4 +1,14 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/ardaeksi/ardaeksi/blob/main/base.svg" alt="Base" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github.com/ardaeksi/ardaeksi/blob/main/commits.svg" alt="Commits" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **ardaeksi/ardaeksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
